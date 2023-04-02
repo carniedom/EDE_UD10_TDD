@@ -7,5 +7,8 @@ public class Coche {
 
     public void Decelerar(int deceleracion){
         velocidad -= deceleracion;
+        if (velocidad < 0){
+            velocidad = 0;
+        }
     }
 }
