@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5367a59e-d0aa-4500-a029-c1da043c043f" name="Changes" comment="" />
+    <list default="true" id="5367a59e-d0aa-4500-a029-c1da043c043f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +56,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoche.Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCoche.Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta_CarmeloNietoDomene" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD Practica Coche" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCoche" />
-      <option name="METHOD_NAME" value="Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta" />
+      <option name="METHOD_NAME" value="Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta_CarmeloNietoDomene" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,7 +79,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestCoche" />
-        <item itemvalue="JUnit.TestCoche.Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta" />
+        <item itemvalue="JUnit.TestCoche.Test_Al_Acelerar_Un_Coche_Su_Velocidad_Aumenta_CarmeloNietoDomene" />
         <item itemvalue="JUnit.TestCoche.Test_Crear_Coche" />
       </list>
     </recent_temporary>
@@ -88,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680426047225</updated>
-      <workItem from="1680426048409" duration="5082000" />
+      <workItem from="1680426048409" duration="5432000" />
     </task>
     <servers />
   </component>
